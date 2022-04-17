@@ -1,7 +1,7 @@
 
 # myStudyStorage [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc-legalcode]
 
-Storage to stroe my study work for myself
+Storage to stroe my study work just for myself
 
 
 ---
